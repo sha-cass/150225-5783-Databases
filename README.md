@@ -7,3 +7,7 @@ Here we will have all the SQL scripts and the entities to build database for the
 * Player
 * Team coach
 * Judge
+### Shai and Chaim
+* Team
+* Sponsor
+* Arena/court
