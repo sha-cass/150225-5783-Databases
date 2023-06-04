@@ -1,0 +1,1502 @@
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('CyberThink', 12676, 'Brazil', 'Mickey Lynne', 'Mickey Lynne', 1974, 1, 'Rio de janeiro');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('AT&T Corp.', 22983, 'USA', 'Kyle Mars', 'Kyle Mars', 1973, 2, 'Bloomington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Terra Firma', 8870, 'Israel', 'Adrien Bancroft', 'Adrien Bancroft', 1988, 3, 'Ben-Gurion');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Gray Hawk Systems', 5947, 'Liechtenstein', 'Owen Tilly', 'Owen Tilly', 2005, 4, 'Eschen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Active Services', 20784, 'Brazil', 'Larry Zeta-Jones', 'Larry Zeta-Jones', 1988, 5, 'Joinville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('American Vanguard', 5061, 'Netherlands', 'Ice Rivers', 'Ice Rivers', 2009, 6, 'Maarssen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('American Healthways', 18634, 'USA', 'Roberta Michael', 'Roberta Michael', 1977, 7, 'Altamonte Springs');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Synovis Life Technol', 3697, 'USA', 'Alfie Rhys-Davies', 'Alfie Rhys-Davies', 1978, 8, 'Ann Arbor');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Nature''s Cure', 2173, 'Japan', 'Chet Finn', 'Chet Finn', 1985, 9, 'Wakayama');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mosaic', 4858, 'USA', 'Rose Kinney', 'Rose Kinney', 1978, 10, 'Ithaca');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Iris Software', 23816, 'South Korea', 'George Condition', 'George Condition', 1983, 11, 'Kejae City');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Miracle Software Sys', 4736, 'Canada', 'Neneh Gibbons', 'Neneh Gibbons', 1999, 12, 'Fort Saskatchewan');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('RS Information Syste', 9178, 'USA', 'Marisa Sizemore', 'Marisa Sizemore', 1986, 13, 'Yucca');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Creditors Interchang', 11426, 'Germany', 'Mae Furtado', 'Mae Furtado', 1977, 14, 'Herzogenrath');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Dynacq International', 7602, 'USA', 'Goldie Stoltz', 'Goldie Stoltz', 1988, 15, 'Huntsville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('First American Equip', 4305, 'USA', 'Jane Candy', 'Jane Candy', 2015, 16, 'New Haven');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('U.S Physical Therapy', 22408, 'United Kingdom', 'Raymond Chilton', 'Raymond Chilton', 2014, 17, 'Maidenhead');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Brandt Information S', 11651, 'USA', 'Hazel Steenburgen', 'Hazel Steenburgen', 2014, 18, 'Amarillo');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kellogg Co.', 2278, 'Sweden', 'Orlando Kinnear', 'Orlando Kinnear', 1981, 19, 'Tהby');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Universal Solutions', 3164, 'USA', 'Joy Lindley', 'Joy Lindley', 1968, 20, 'Concordville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ZonePerfect Nutritio', 3738, 'USA', 'Terence Johansson', 'Terence Johansson', 2001, 21, 'Pompton Plains');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SurModics', 17118, 'France', 'Ike Pryce', 'Ike Pryce', 2004, 22, 'Le chesnay');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tropical Oasis', 4131, 'United Kingdom', 'Todd Butler', 'Todd Butler', 1992, 23, 'Royston');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('In Zone', 16265, 'USA', 'Al Bullock', 'Al Bullock', 2000, 24, 'Wilmington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Trek Equipment', 6971, 'USA', 'Cyndi Saucedo', 'Cyndi Saucedo', 1973, 25, 'Derwood');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Navarro Research and', 13941, 'Japan', 'Dave Singletary', 'Dave Singletary', 1980, 26, 'Chiba');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mattel', 18093, 'USA', 'Sydney Sartain', 'Sydney Sartain', 1986, 27, 'Spring City');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kimberly-Clark Corp.', 10971, 'Argentina', 'Wayman Holm', 'Wayman Holm', 1977, 28, 'Rosario');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Berkshire Hathaway', 12291, 'United Kingdom', 'Louise Playboys', 'Louise Playboys', 1984, 29, 'Cannock');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tilson HR', 14726, 'USA', 'Hazel Keitel', 'Hazel Keitel', 1999, 30, 'Lake worth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mindworks', 17418, 'USA', 'Curtis Popper', 'Curtis Popper', 1970, 31, 'Charleston');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Integrity Staffing S', 24571, 'Germany', 'Julio Macht', 'Julio Macht', 1978, 32, 'Coburg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Staff One', 13248, 'Australia', 'Linda Baker', 'Linda Baker', 1974, 33, 'Ringwood');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Microsoft Corp.', 14305, 'USA', 'Wendy Bugnon', 'Wendy Bugnon', 1973, 34, 'Milwaukee');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Asta Funding', 15700, 'Canada', 'Ivan Collie', 'Ivan Collie', 1984, 35, 'Kingston');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Spinnaker Exploratio', 5962, 'Czech republic', 'Timothy Miller', 'Timothy Miller', 1999, 36, 'Prague');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Jewett-Cameron Tradi', 16139, 'Switzerland', 'Nicolas Channing', 'Nicolas Channing', 2005, 37, 'Holderbank');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Prosperity Bancshare', 4973, 'USA', 'Kyle Tolkan', 'Kyle Tolkan', 2005, 38, 'Juneau');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('HealthScribe', 19820, 'USA', 'Frances Rucker', 'Frances Rucker', 2014, 39, 'Bloomington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Alternative Business', 13772, 'United Kingdom', 'Keith Hawke', 'Keith Hawke', 1968, 40, 'Purley');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Safeway', 16688, 'Denmark', 'Carole Pullman', 'Carole Pullman', 1983, 41, 'Hillerרd');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Greene County Bancor', 3747, 'South Africa', 'Ossie Squier', 'Ossie Squier', 1995, 42, 'Bloemfontein');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Priority Express Cou', 8144, 'Japan', 'Lari Hatchet', 'Lari Hatchet', 1993, 43, 'Fukuoka');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Hi-Tech Pharmacal', 18460, 'USA', 'Ted Dunst', 'Ted Dunst', 1999, 44, 'Redwood Shores');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('WAV', 23089, 'Germany', 'Buffy Conners', 'Buffy Conners', 2015, 45, 'Pulheim-brauweiler');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Schering-Plough Corp', 2690, 'United Kingdom', 'Oliver Tankard', 'Oliver Tankard', 2002, 46, 'Banbury');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ASAP Staffing', 2751, 'USA', 'Hilary Hidalgo', 'Hilary Hidalgo', 1983, 47, 'New Hyde Park');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Greene County Bancor', 9213, 'USA', 'Geena Saxon', 'Geena Saxon', 1986, 48, 'Bethesda');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Bioanalytical System', 7772, 'Germany', 'Holly Uggams', 'Holly Uggams', 1979, 49, 'Goslar');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Telwares Communicati', 7326, 'USA', 'Jeffrey Whitaker', 'Jeffrey Whitaker', 1985, 50, 'Las Vegas');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Clover Technologies ', 5505, 'USA', 'Tia Vaughan', 'Tia Vaughan', 2005, 51, 'West Chester');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Interface Software', 16382, 'USA', 'Curtis Torn', 'Curtis Torn', 1994, 52, 'Waldorf');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Comm-Works', 14361, 'Germany', 'Kenneth Addy', 'Kenneth Addy', 1974, 53, 'Kצln');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('White Wave', 15237, 'Germany', 'Noah Jeffreys', 'Noah Jeffreys', 2006, 54, 'Leipzig');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ATX Forms', 17768, 'Australia', 'Herbie Whitwam', 'Herbie Whitwam', 1997, 55, 'Highton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Joe Lombardo Plumbin', 8793, 'Germany', 'Viggo Herndon', 'Viggo Herndon', 2012, 56, 'Ulm');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('CyberThink', 19035, 'Japan', 'Beth Zellweger', 'Beth Zellweger', 2000, 57, 'Osaka');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Security Check', 2187, 'Norway', 'Demi Stuermer', 'Demi Stuermer', 1969, 58, 'Ulsteinvik');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('TechRX', 5817, 'Canada', 'Curtis Gershon', 'Curtis Gershon', 2015, 59, 'Dartmouth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Marlabs', 4234, 'South Africa', 'Garth Waits', 'Garth Waits', 2014, 60, 'Durban');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Colgate-Palmolive Co', 18215, 'Norway', 'Freddy Pfeiffer', 'Freddy Pfeiffer', 2012, 61, 'Oslo');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Saks Inc.', 4788, 'United Kingdom', 'Maria Austin', 'Maria Austin', 1977, 62, 'Southend on Sea');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SEI/Aaron''s', 11455, 'USA', 'Embeth Moorer', 'Embeth Moorer', 2015, 63, 'Fort worth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('InsurMark', 9341, 'USA', 'Geena Perry', 'Geena Perry', 1979, 64, 'Benbrook');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('InfoVision Consultan', 7954, 'United Kingdom', 'Andrew Adams', 'Andrew Adams', 1992, 65, 'Doncaster');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('St. Mary Land & Expl', 22855, 'France', 'Trace Kapanka', 'Trace Kapanka', 1976, 66, 'Dardilly');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Alliance of Professi', 21783, 'Brazil', 'Ike Dolenz', 'Ike Dolenz', 1995, 67, 'Joinville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Larkin Enterprises', 10936, 'USA', 'Samuel Snipes', 'Samuel Snipes', 1968, 68, 'Reston');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Asta Funding', 11423, 'South Korea', 'Lucy Astin', 'Lucy Astin', 1999, 69, 'Pusan');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mission West Propert', 20198, 'USA', 'Martha Speaks', 'Martha Speaks', 1968, 70, 'Princeton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Advanced Internet Te', 15846, 'South Africa', 'Kate Whitaker', 'Kate Whitaker', 2011, 71, 'Johannesburg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Intel Corp.', 14868, 'Poland', 'Rik Overstreet', 'Rik Overstreet', 1985, 72, 'Warsaw');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Ogio International', 11935, 'France', 'Merrill Unger', 'Merrill Unger', 2003, 73, 'Tours');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sea Fox Boat', 10487, 'Iceland', 'Thelma Tippe', 'Thelma Tippe', 1988, 74, 'Kopavogur');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MoneyLine Lending Se', 2000, 'Germany', 'Mint Foley', 'Mint Foley', 1993, 75, 'Freising');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Microsoft Corp.', 18687, 'USA', 'Adrien Marie', 'Adrien Marie', 2012, 76, 'Arlington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('General Motors Corp.', 4083, 'Japan', 'Elias Kretschmann', 'Elias Kretschmann', 1992, 77, 'Saitama');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Catamount Constructo', 22025, 'United Kingdom', 'Dabney Frampton', 'Dabney Frampton', 1971, 78, 'Edenbridge');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Ogio International', 14896, 'USA', 'Maxine Whitman', 'Maxine Whitman', 1993, 79, 'Santa Clarita');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ASAP Staffing', 4718, 'Paraguay', 'Clarence Wright', 'Clarence Wright', 1975, 80, 'Ciudad del Este');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Fiber Network Soluti', 3938, 'United Kingdom', 'Emma Hagar', 'Emma Hagar', 2003, 81, 'Edinburgh');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Educational Developm', 9538, 'Japan', 'Laurie Leary', 'Laurie Leary', 2007, 82, 'Tsu');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Schering-Plough Corp', 14749, 'USA', 'Kazem Bell', 'Kazem Bell', 2008, 83, 'Stoneham');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Imaging Business Mac', 20498, 'Belgium', 'Angelina Macy', 'Angelina Macy', 1994, 84, 'Antwerpen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SSCI', 4174, 'USA', 'Walter Singh', 'Walter Singh', 2003, 85, 'Staten Island');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MasterCard Internati', 6971, 'USA', 'Pat Wilder', 'Pat Wilder', 2013, 86, 'Bradenton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('State Farm Mutual Au', 21570, 'USA', 'Milla Emmett', 'Milla Emmett', 2014, 87, 'Groton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sony Corp.', 2149, 'Spain', 'Lionel Mitra', 'Lionel Mitra', 1976, 88, 'Terrasa');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tastefully Simple', 5325, 'Switzerland', 'Julie Hauer', 'Julie Hauer', 1977, 89, 'Geneve');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Microsoft Corp.', 12334, 'USA', 'Maureen Warren', 'Maureen Warren', 1987, 90, 'Pompton Plains');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MRE Consulting', 4286, 'Brazil', 'Geraldine Reynolds', 'Geraldine Reynolds', 2006, 91, 'Brasםlia');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Appriss', 13435, 'USA', 'Rip Calle', 'Rip Calle', 1974, 92, 'Ithaca');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('American Express Co.', 24679, 'Japan', 'Donna Ruiz', 'Donna Ruiz', 1994, 93, 'Toyama');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tilson HR', 11115, 'Germany', 'Rosario Eat World', 'Rosario Eat World', 2003, 94, 'Giessen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SHOT', 7102, 'Germany', 'Bernie Ronstadt', 'Bernie Ronstadt', 2012, 95, 'Koblenz');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Nu Info Systems', 9316, 'United Kingdom', 'Mary Beth Magnuson', 'Mary Beth Magnuson', 2005, 96, 'Paisley');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Commercial Energy of', 11327, 'United Kingdom', 'Warren Blossoms', 'Warren Blossoms', 1971, 97, 'Redhill');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Wal-Mart Stores', 19110, 'United Kingdom', 'Tom Leoni', 'Tom Leoni', 1997, 98, 'Burgess Hill');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sensor Technologies', 9690, 'USA', 'Fiona Viterelli', 'Fiona Viterelli', 1994, 99, 'Olivette');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Diamond Group', 4955, 'USA', 'Mary Beth Matheson', 'Mary Beth Matheson', 1981, 100, 'Brisbane');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Business Plus Corpor', 5753, 'Spain', 'Jeremy Kinney', 'Jeremy Kinney', 1998, 101, 'Madrid');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Strategic Management', 7584, 'Brazil', 'Billy Palmer', 'Billy Palmer', 1975, 102, 'Sorocaba');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Miracle Software Sys', 21778, 'USA', 'Chet Jordan', 'Chet Jordan', 2015, 103, 'Brentwood');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Iris Software', 3221, 'Germany', 'Liquid Prinze', 'Liquid Prinze', 2008, 104, 'Herdecke');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('StoneTech Profession', 24137, 'USA', 'Chaka Seagal', 'Chaka Seagal', 1985, 105, 'Bellevue');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Reckitt Benckiser', 23016, 'Canada', 'Cledus Washington', 'Cledus Washington', 1983, 106, 'Montreal');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('National Heritage Ac', 18408, 'Austria', 'Blair Rauhofer', 'Blair Rauhofer', 1977, 107, 'Zipf');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kitba Consulting Ser', 14632, 'USA', 'Ivan Byrne', 'Ivan Byrne', 1987, 108, 'O''fallon');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Jewett-Cameron Tradi', 15117, 'Germany', 'Alfred DeVito', 'Alfred DeVito', 1979, 109, 'Peine');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Johnson & Johnson', 14331, 'South Korea', 'Judi Chappelle', 'Judi Chappelle', 1996, 110, 'Daejeon');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('J.C. Penney Corp.', 21339, 'Canada', 'Edwin Landau', 'Edwin Landau', 1981, 111, 'Brossard');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('L’Oreal', 19077, 'USA', 'Nile Folds', 'Nile Folds', 1990, 112, 'Fort worth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Eze Castle Software', 3994, 'Germany', 'Kim Ledger', 'Kim Ledger', 1977, 113, 'Goslar');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Speakeasy', 20291, 'Italy', 'Nik Nunn', 'Nik Nunn', 1970, 114, 'Biella');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('L’Oreal', 9583, 'Australia', 'Bernie Dzundza', 'Bernie Dzundza', 1979, 115, 'Port Macquarie');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('PrintingForLess.com', 12057, 'USA', 'Rupert Feore', 'Rupert Feore', 2014, 116, 'Monmouth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Alliance of Professi', 3548, 'USA', 'Maxine Barnett', 'Maxine Barnett', 1982, 117, 'Fort Lewis');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Jolly Enterprises', 23962, 'USA', 'Famke Wolf', 'Famke Wolf', 1983, 118, 'Redwood City');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Montpelier Plastics', 6877, 'USA', 'Paula Cumming', 'Paula Cumming', 2005, 119, 'Newbury');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('TeleSynthesis', 6206, 'United Kingdom', 'Celia Cara', 'Celia Cara', 1977, 120, 'Cannock');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Young Innovations', 11465, 'USA', 'Uma Ellis', 'Uma Ellis', 2005, 121, 'Slidel');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MHF Logistical Solut', 16919, 'Chile', 'Colm Shepherd', 'Colm Shepherd', 1977, 122, 'Santiago');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('EPAM Systems', 3054, 'USA', 'Kitty Shepherd', 'Kitty Shepherd', 2009, 123, 'Olivette');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Client Network Servi', 23014, 'Germany', 'Joe Sampson', 'Joe Sampson', 1977, 124, 'Meerbusch');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('NLX', 8456, 'USA', 'Susan Favreau', 'Susan Favreau', 1977, 125, 'Saint Paul');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Extreme Pizza', 18528, 'USA', 'Janice Vincent', 'Janice Vincent', 2009, 126, 'Corona');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Educational Developm', 19137, 'United Kingdom', 'Henry Creek', 'Henry Creek', 1984, 127, 'Chinnor');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Woronoco Bancorp', 6189, 'Germany', 'Mykelti Drive', 'Mykelti Drive', 1984, 128, 'Offenburg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Cardtronics', 3573, 'Norway', 'Xander Azaria', 'Xander Azaria', 1999, 129, 'Kristiansand');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Progressive Designs', 17357, 'USA', 'Merrill Flatts', 'Merrill Flatts', 1997, 130, 'Trumbull');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Black Mountain Manag', 8075, 'USA', 'Jean-Luc Venora', 'Jean-Luc Venora', 1976, 131, 'Grapevine');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Larkin Enterprises', 12542, 'Germany', 'Nina Imperioli', 'Nina Imperioli', 1986, 132, 'Dresden');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Phoenix Rehabilitati', 14249, 'United Kingdom', 'Derek Margolyes', 'Derek Margolyes', 1994, 133, 'Burgess Hill');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Boldtech Systems', 4257, 'France', 'Jon Berkeley', 'Jon Berkeley', 1996, 134, 'Velizy Villacoublay');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Unica', 14494, 'Germany', 'Willie Hartnett', 'Willie Hartnett', 1975, 135, 'Oldenburg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pioneer Data Systems', 24171, 'USA', 'Mia Shaw', 'Mia Shaw', 2006, 136, 'Groton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Hi-Tech Pharmacal', 12857, 'Spain', 'Chloe McCormack', 'Chloe McCormack', 1989, 137, 'Toledo');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Wyeth', 7098, 'USA', 'Janeane Oldman', 'Janeane Oldman', 1996, 138, 'Golden');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Swiss Watch Internat', 13800, 'Norway', 'Mel Sellers', 'Mel Sellers', 1991, 139, 'Eiksmarka');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Democracy Data & Com', 15299, 'South Africa', 'Chaka Quinlan', 'Chaka Quinlan', 2000, 140, 'Gauteng');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('TeleSynthesis', 5869, 'Japan', 'Aaron Haynes', 'Aaron Haynes', 1976, 141, 'Shizuoka');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tilia', 15547, 'Liechtenstein', 'Nancy Bloch', 'Nancy Bloch', 1969, 142, 'Vaduz');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MicroTek', 4744, 'Netherlands', 'Michelle Red', 'Michelle Red', 2012, 143, 'Rozenburg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Diamond Technologies', 6618, 'USA', 'Udo Neil', 'Udo Neil', 2004, 144, 'Athens');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Total Entertainment', 8318, 'United Kingdom', 'Davey Benet', 'Davey Benet', 1985, 145, 'Cheshire');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Omega Insurance Serv', 24878, 'Denmark', 'Junior Mould', 'Junior Mould', 1995, 146, 'Naestved');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Parksite', 8575, 'Germany', 'Junior Witherspoon', 'Junior Witherspoon', 1990, 147, 'Bremen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('netNumina', 22557, 'Chile', 'Merle Foster', 'Merle Foster', 1976, 148, 'Santiago');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sterling Financial G', 7847, 'South Korea', 'Julie Chestnut', 'Julie Chestnut', 1980, 149, 'Changwon-si');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Signature Consultant', 14762, 'USA', 'Saul Brody', 'Saul Brody', 1975, 150, 'Niles');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('HealthCare Financial', 2229, 'Poland', 'Cevin Mahoney', 'Cevin Mahoney', 2015, 151, 'Warszawa');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Brandt Information S', 10836, 'Canada', 'Carol Lang', 'Carol Lang', 2012, 152, 'Toronto');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Quaker City Bancorp', 9559, 'Brazil', 'Maria Margolyes', 'Maria Margolyes', 1974, 153, 'Recife');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Merck & Co.', 9608, 'USA', 'Freddie Diaz', 'Freddie Diaz', 1977, 154, 'Niles');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Heartlab', 13356, 'USA', 'Caroline Scheider', 'Caroline Scheider', 1979, 155, 'Pompton Plains');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Paisley Consulting', 5527, 'France', 'Alicia Olin', 'Alicia Olin', 1995, 156, 'Lyon');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Larkin Enterprises', 2549, 'USA', 'Jackson Lewin', 'Jackson Lewin', 1996, 157, 'Staten Island');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SALT Group', 22283, 'Canada', 'Ben Webb', 'Ben Webb', 2004, 158, 'Regina');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sears, Roebuck & Co.', 5771, 'Germany', 'Rowan Yankovic', 'Rowan Yankovic', 2012, 159, 'Fuerth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Commercial Energy of', 9038, 'USA', 'Lisa MacIsaac', 'Lisa MacIsaac', 1982, 160, 'Orlando');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Digital Visual Displ', 15871, 'New Caledonia', 'Brian Merchant', 'Brian Merchant', 1986, 161, 'Noumea');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pacific Data Designs', 3146, 'USA', 'Dabney Crouse', 'Dabney Crouse', 1987, 162, 'Santa Fe');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('C & A Industries', 13059, 'Canada', 'Giancarlo McFerrin', 'Giancarlo McFerrin', 1982, 163, 'Burlington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('WAV', 4143, 'USA', 'Stewart Thornton', 'Stewart Thornton', 1980, 164, 'Louisville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Call Henry', 23124, 'United Kingdom', 'Gavin Renfro', 'Gavin Renfro', 1994, 165, 'Cheshire');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Keith Companies', 18278, 'USA', 'Elias Nivola', 'Elias Nivola', 1970, 166, 'Chapel hill');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Caliber Collision Ce', 11951, 'Germany', 'Carlos de Lancie', 'Carlos de Lancie', 1986, 167, 'Gelsenkirchen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Jolly Enterprises', 3423, 'USA', 'Clint Cassel', 'Clint Cassel', 2004, 168, 'Ft. Leavenworth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Unger Technologies', 9519, 'Austria', 'Jason Vaughan', 'Jason Vaughan', 1997, 169, 'Pottendorf');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SEI/Aaron''s', 6139, 'Russia', 'Vincent Branch', 'Vincent Branch', 1990, 170, 'Protvino');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Herbeau Creations of', 9884, 'Israel', 'Spencer Pride', 'Spencer Pride', 1972, 171, 'Ashdod');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Texas Residential Mo', 21499, 'Switzerland', 'Cledus Oakenfold', 'Cledus Oakenfold', 1976, 172, 'Dietikon');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Unilever', 3281, 'Sri lanka', 'Warren Thomas', 'Warren Thomas', 1988, 173, 'Colombo');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Philip Morris Cos.', 5060, 'USA', 'Stockard Chaykin', 'Stockard Chaykin', 1977, 174, 'Barnegat');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Baesch Computer Cons', 12316, 'USA', 'Gena Dushku', 'Gena Dushku', 1989, 175, 'Arlington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Cambridge Home Healt', 23820, 'Brazil', 'Chuck Hawkins', 'Chuck Hawkins', 1990, 176, 'Recife');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Educational Developm', 5535, 'USA', 'Miriam Dalton', 'Miriam Dalton', 1991, 177, 'South Jordan');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tilson HR', 6178, 'USA', 'Pelvic Epps', 'Pelvic Epps', 1977, 178, 'Draper');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('WestNet Learning Tec', 10215, 'Japan', 'Mark Duchovny', 'Mark Duchovny', 2003, 179, 'Matsue');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Adea Solutions', 2479, 'USA', 'Yaphet Plummer', 'Yaphet Plummer', 1992, 180, 'Bellevue');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Print-Tech', 17568, 'USA', 'Lou McCain', 'Lou McCain', 1990, 181, 'Timonium');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Zaiq Technologies', 5663, 'USA', 'Kazem Warburton', 'Kazem Warburton', 1993, 182, 'Hackensack');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Synhrgy HR Technolog', 24797, 'USA', 'Derek Conroy', 'Derek Conroy', 2009, 183, 'Amarillo');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mindworks', 16509, 'USA', 'Barry Loveless', 'Barry Loveless', 1997, 184, 'West Monroe');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Savela & Associates', 10498, 'Pakistan', 'Samuel Michael', 'Samuel Michael', 1980, 185, 'Karachi');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Alogent', 2289, 'Denmark', 'Juice Lattimore', 'Juice Lattimore', 2007, 186, 'Naestved');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Custom Solutions Int', 13172, 'South Korea', 'Rich Kretschmann', 'Rich Kretschmann', 1968, 187, 'Yomgok-dong');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Technica', 22562, 'Germany', 'Vincent Affleck', 'Vincent Affleck', 1975, 188, 'Lengdorf');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SSCI', 2196, 'Switzerland', 'Connie Buffalo', 'Connie Buffalo', 1983, 189, 'Zuerich');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aloha NY Systems', 14898, 'India', 'Lenny Goldblum', 'Lenny Goldblum', 1989, 190, 'Hyderabad');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Intrasphere Technolo', 16878, 'USA', 'Tracy Kenoly', 'Tracy Kenoly', 1974, 191, 'Trumbull');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('C & A Industries', 9848, 'USA', 'Nastassja Yorn', 'Nastassja Yorn', 1968, 192, 'Draper');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SourceGear', 24055, 'USA', 'Milla McLachlan', 'Milla McLachlan', 1984, 193, 'Annandale');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('American Pan & Engin', 11790, 'United Kingdom', 'Rosco Christie', 'Rosco Christie', 1970, 194, 'Enfield');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Great Lakes Technolo', 20154, 'Norway', 'Marianne Greenwood', 'Marianne Greenwood', 2007, 195, 'Stavanger');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Prosoft Technology G', 9948, 'Netherlands', 'Eric Trejo', 'Eric Trejo', 1975, 196, 'Eindhoven');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ACS International Re', 4794, 'United Kingdom', 'Vince Moody', 'Vince Moody', 1994, 197, 'Birmingham');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('WAV', 16629, 'USA', 'Leelee McCann', 'Leelee McCann', 1980, 198, 'Carmichael');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('AQuickDelivery', 4159, 'Japan', 'Sona Numan', 'Sona Numan', 1976, 199, 'Kagoshima');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Lloyd Group', 3038, 'Croatia', 'Bernard Rydell', 'Bernard Rydell', 2006, 200, 'Zagreb');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Hilton Hotels Corp.', 5357, 'USA', 'Ahmad Kinney', 'Ahmad Kinney', 1998, 201, 'Stony Point');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aristotle', 19938, 'USA', 'Terence Cruise', 'Terence Cruise', 1986, 202, 'Palo Alto');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MRE Consulting', 11694, 'Greece', 'Udo Crudup', 'Udo Crudup', 1975, 203, 'Athens');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('DaimlerChrysler', 13014, 'USA', 'Yaphet Rhames', 'Yaphet Rhames', 2015, 204, 'Clark');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aventis', 14772, 'Russia', 'Red Rydell', 'Red Rydell', 1979, 205, 'Protvino');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('U.S. Government', 4586, 'Germany', 'Donald Glover', 'Donald Glover', 1971, 206, 'Kreuzau');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Auction Systems Auct', 7785, 'Germany', 'Rickie Navarro', 'Rickie Navarro', 1969, 207, 'Peine');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('WestNet Learning Tec', 2546, 'Italy', 'Larnelle McDiarmid', 'Larnelle McDiarmid', 1991, 208, 'Zafferana Etnea');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Staff Force', 12090, 'United Kingdom', 'Trey Tripplehorn', 'Trey Tripplehorn', 1979, 209, 'Doncaster');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Capital Automotive', 4970, 'Switzerland', 'Rose Reeve', 'Rose Reeve', 2004, 210, 'Thצrishaus');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('C & A Industries', 9537, 'USA', 'Natascha Bullock', 'Natascha Bullock', 2000, 211, 'Narrows');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mission Controls Aut', 2028, 'USA', 'Wally Wincott', 'Wally Wincott', 1998, 212, 'Harrisburg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Topics Entertainment', 11259, 'South Korea', 'Scarlett Walker', 'Scarlett Walker', 1993, 213, 'Jun-nam');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Fiberlink Communicat', 22756, 'USA', 'Christmas Rispoli', 'Christmas Rispoli', 2001, 214, 'Lancaster');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('New View Gifts & Acc', 19407, 'South Africa', 'Will Kier', 'Will Kier', 1990, 215, 'Cape town');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Travizon', 19783, 'France', 'Edgar O''Keefe', 'Edgar O''Keefe', 1980, 216, 'Le chesnay');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Cendant Corp.', 5276, 'Spain', 'Delroy Farina', 'Delroy Farina', 2006, 217, 'Bergara');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('GCI', 18189, 'Canada', 'Chad Kline', 'Chad Kline', 2009, 218, 'Unionville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Hershey Foods Corp.', 9665, 'USA', 'Wendy Molina', 'Wendy Molina', 2007, 219, 'Silver Spring');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MedSource Consulting', 4849, 'USA', 'Kylie Downie', 'Kylie Downie', 2011, 220, 'Bloomington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Bioanalytical System', 8353, 'Iceland', 'Corey Collins', 'Corey Collins', 1980, 221, 'Reykjavik');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Vesta', 17469, 'Russia', 'Mac DiBiasio', 'Mac DiBiasio', 1998, 222, 'Solikamsk');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Green Mountain Coffe', 2378, 'USA', 'Devon Branch', 'Devon Branch', 1979, 223, 'Bristol');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('IVCi', 20241, 'Switzerland', 'Shannon Bello', 'Shannon Bello', 1996, 224, 'Zurich');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Blue Ocean Software', 8494, 'United Kingdom', 'Liev Carter', 'Liev Carter', 1982, 225, 'Fleet');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Gap Inc.', 12354, 'Netherlands', 'Vern Dorff', 'Vern Dorff', 2003, 226, 'Utrecht');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Genghis Grill', 13622, 'France', 'Anne Shorter', 'Anne Shorter', 1996, 227, 'Courbevoie');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('CapTech Ventures', 2450, 'USA', 'Lupe Keith', 'Lupe Keith', 1969, 228, 'New orleans');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('TEOCO', 6458, 'Germany', 'Ryan Pryce', 'Ryan Pryce', 1970, 229, 'Augsburg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Operational Technolo', 15634, 'USA', 'Ronnie Eckhart', 'Ronnie Eckhart', 2006, 230, 'Omaha');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Wyeth', 3747, 'Italy', 'Marisa Connery', 'Marisa Connery', 1990, 231, 'Novara');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Medical Action Indus', 18138, 'Palestine', 'Teri Tillis', 'Teri Tillis', 1999, 232, 'Gaza');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Diamond Group', 7019, 'USA', 'Seann Beckinsale', 'Seann Beckinsale', 1990, 233, 'Laguna Bbeach');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Baesch Computer Cons', 6774, 'Canada', 'Machine Vincent', 'Machine Vincent', 2002, 234, 'Edmonton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Lifeline Systems', 19953, 'Japan', 'Bill Pullman', 'Bill Pullman', 1992, 235, 'Fukuoka');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Amerisource Funding', 7803, 'Brazil', 'Kiefer Busey', 'Kiefer Busey', 1981, 236, 'Campinas');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Cowlitz Bancorp', 16829, 'Italy', 'Nicole Schwimmer', 'Nicole Schwimmer', 2000, 237, 'Brugherio');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pharmacia Corp.', 10833, 'Japan', 'Adam Janssen', 'Adam Janssen', 2011, 238, 'Aomori');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Terra Firma', 18361, 'Germany', 'Dar Frampton', 'Dar Frampton', 1996, 239, 'Gersthofen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Wells Financial', 5167, 'USA', 'Gena Yulin', 'Gena Yulin', 1978, 240, 'West Windsor');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Oneida Financial', 20368, 'USA', 'Hugo Bandy', 'Hugo Bandy', 1999, 241, 'Framingaham');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('EPIQ Systems', 20387, 'USA', 'Merrill Sweeney', 'Merrill Sweeney', 2014, 242, 'Foster City');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SBC Communications', 17780, 'Sweden', 'Celia Goldblum', 'Celia Goldblum', 1983, 243, 'Helsingborg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mitsubishi Motors Co', 14305, 'USA', 'Percy Beals', 'Percy Beals', 1993, 244, 'Akron');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Knightsbridge Soluti', 3025, 'Germany', 'Treat Starr', 'Treat Starr', 1998, 245, 'Munich');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Novartis', 23176, 'Belgium', 'Marianne Cruz', 'Marianne Cruz', 2001, 246, 'Drogenbos');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Infinity Software De', 15847, 'Venezuela', 'Armand Gordon', 'Armand Gordon', 2005, 247, 'Caracas');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Eze Castle Software', 11713, 'USA', 'Linda McKean', 'Linda McKean', 2010, 248, 'Lincoln');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Green Mountain Coffe', 20800, 'USA', 'Connie Leto', 'Connie Leto', 2000, 249, 'Houma');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kimberly-Clark Corp.', 23484, 'USA', 'Allan Burton', 'Allan Burton', 1976, 250, 'Denver');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Appriss', 20297, 'USA', 'Steve Rubinek', 'Steve Rubinek', 1984, 251, 'Sutton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Envision Telephony', 14474, 'Germany', 'Frank England', 'Frank England', 2003, 252, 'Fuerth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Genghis Grill', 16050, 'USA', 'Ashley Purefoy', 'Ashley Purefoy', 1968, 253, 'Minneapolis');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Dynacq International', 4624, 'USA', 'Chalee Liotta', 'Chalee Liotta', 2002, 254, 'Waltham');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Trek Equipment', 15143, 'Canada', 'Bonnie Paul', 'Bonnie Paul', 1980, 255, 'Mississauga');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Analytical Managemen', 16317, 'Venezuela', 'Donna Pitt', 'Donna Pitt', 1999, 256, 'Caracas');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Painted Word', 17667, 'Denmark', 'Cledus Dooley', 'Cledus Dooley', 1992, 257, 'Fredericia');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Bio-Reference Labs', 5349, 'USA', 'Harvey Jolie', 'Harvey Jolie', 1982, 258, 'Rockville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ATA Services', 19219, 'Italy', 'Brothers Burke', 'Brothers Burke', 2003, 259, 'Trento');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mission West Propert', 3040, 'USA', 'Kirsten Atkinson', 'Kirsten Atkinson', 2013, 260, 'Middletown');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Telepoint Communicat', 22423, 'USA', 'Barbara Schwimmer', 'Barbara Schwimmer', 1990, 261, 'Berkeley');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Shirt Factory', 13156, 'Australia', 'Cliff Curtis-Hall', 'Cliff Curtis-Hall', 1984, 262, 'Port Macquarie');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sterling Financial G', 3346, 'New Zealand', 'Ralph Woodard', 'Ralph Woodard', 1975, 263, 'Auckland');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Circuit City Stores', 3242, 'Denmark', 'Gates Short', 'Gates Short', 1989, 264, 'Lyngby');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pan-Pacific Retail P', 14159, 'Belgium', 'Geggy Weisz', 'Geggy Weisz', 1984, 265, 'Antwerpen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Portfolio Recovery A', 18070, 'United Kingdom', 'Gin Platt', 'Gin Platt', 2006, 266, 'durham');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Wal-Mart Stores', 14237, 'United Kingdom', 'Geggy Bogguss', 'Geggy Bogguss', 1993, 267, 'Haverhill');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('American Pan & Engin', 22471, 'Denmark', 'Gailard Trejo', 'Gailard Trejo', 1980, 268, 'Lyngby');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('GCI', 23131, 'USA', 'Garth Harris', 'Garth Harris', 1989, 269, 'Madison');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('First South Bancorp', 8944, 'Germany', 'Hazel Romijn-Stamos', 'Hazel Romijn-Stamos', 1995, 270, 'Ebersdorf');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SCI', 12068, 'USA', 'Danni Barrymore', 'Danni Barrymore', 1999, 271, 'Rockland');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Cold Stone Creamery', 23644, 'Netherlands', 'Barbara Farrell', 'Barbara Farrell', 2001, 272, 'Maarssen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Franklin American Mo', 16279, 'USA', 'Jean-Luc Harris', 'Jean-Luc Harris', 1975, 273, 'Lakewood');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kimberly-Clark Corp.', 23202, 'Canada', 'First Orbit', 'First Orbit', 1994, 274, 'London');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aventis', 9450, 'South Africa', 'Demi Butler', 'Demi Butler', 1984, 275, 'Cape town');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Meridian Gold', 16564, 'Australia', 'Liv McGovern', 'Liv McGovern', 1968, 276, 'Perth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kimberly-Clark Corp.', 20430, 'Ireland', 'Nick Kudrow', 'Nick Kudrow', 2004, 277, 'Dublin');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Data Company', 7232, 'Norway', 'Freddie Elwes', 'Freddie Elwes', 2010, 278, 'Kristiansand');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Baesch Computer Cons', 6788, 'Hungary', 'Lance Choice', 'Lance Choice', 2010, 279, 'Budapest');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Mission West Propert', 4086, 'Brazil', 'Teri Heston', 'Teri Heston', 2011, 280, 'Ponta grossa');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Doral Dental USA', 24394, 'Switzerland', 'Rachid Hackman', 'Rachid Hackman', 1994, 281, 'Obfelden');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Technica', 11810, 'USA', 'Owen Leto', 'Owen Leto', 2013, 282, 'Juno Beach');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('PowerLight', 11747, 'Netherlands', 'Thelma Renfro', 'Thelma Renfro', 2001, 283, 'Zaandam');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Yash Technologies', 6806, 'USA', 'Suzy Brolin', 'Suzy Brolin', 1994, 284, 'Hampton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('U.S Physical Therapy', 9452, 'Japan', 'Gene Penders', 'Gene Penders', 2015, 285, 'Yokohama');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Formatech', 17957, 'Portugal', 'Sonny Pride', 'Sonny Pride', 2008, 286, 'Paחo de Arcos');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Lydian Trust', 21130, 'USA', 'Chi Sedgwick', 'Chi Sedgwick', 1980, 287, 'Holliston');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('American Pan & Engin', 15515, 'USA', 'Andrew Hampton', 'Andrew Hampton', 1969, 288, 'Richardson');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Portosan', 11103, 'Brazil', 'Elijah Porter', 'Elijah Porter', 1974, 289, 'Recife');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Heartlab', 24789, 'Brazil', 'Gina Clayton', 'Gina Clayton', 2001, 290, 'Londrina');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Network Hardware Res', 13338, 'Denmark', 'Faye Peterson', 'Faye Peterson', 2008, 291, 'Tilst');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Joseph Sheairs Assoc', 24604, 'USA', 'Maury Pony', 'Maury Pony', 1988, 292, 'Cleveland');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Wendy’s Internationa', 11491, 'Germany', 'Elijah Rhames', 'Elijah Rhames', 1998, 293, 'Bad Camberg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('IPS Advisory', 2764, 'United Kingdom', 'Charlize Krabbe', 'Charlize Krabbe', 1968, 294, 'Market Harborough');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('General Mills', 9223, 'South Korea', 'Pablo Torino', 'Pablo Torino', 2004, 295, 'Changwon-si');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Unit', 6064, 'Canada', 'Jann Grier', 'Jann Grier', 1982, 296, 'Sainte-foy');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SM Consulting', 9927, 'Germany', 'Jeffery Young', 'Jeffery Young', 1980, 297, 'Karlsruhe');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Air Methods', 15841, 'New Zealand', 'Todd Aglukark', 'Todd Aglukark', 2007, 298, 'Auckland');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Street Glow', 8818, 'Germany', 'Stellan Costa', 'Stellan Costa', 1983, 299, 'Gelsenkirchen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Berkshire Hathaway', 14612, 'USA', 'Joseph Torino', 'Joseph Torino', 1980, 300, 'Newbury');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Dancor', 8055, 'Brazil', 'Rachid Quinlan', 'Rachid Quinlan', 1971, 301, 'Sדo paulo');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Advertising Ventures', 6557, 'Croatia', 'Denny Metcalf', 'Denny Metcalf', 2002, 302, 'Ludbreg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('First South Bancorp', 19352, 'Switzerland', 'Rufus Giamatti', 'Rufus Giamatti', 1969, 303, 'Birmensdorf');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kingland Companies', 8936, 'Canada', 'Corey Avalon', 'Corey Avalon', 1979, 304, 'Summerside');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('May Department Store', 8387, 'USA', 'Gord Roundtree', 'Gord Roundtree', 1995, 305, 'Stanford');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Accurate Autobody', 16860, 'USA', 'Phil Dickinson', 'Phil Dickinson', 1968, 306, 'Rochester');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Deutsche Telekom', 23602, 'Japan', 'Chaka Red', 'Chaka Red', 1983, 307, 'Sendai');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Biosite', 23545, 'USA', 'Sam Vanian', 'Sam Vanian', 1991, 308, 'Phoenix');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Scott Pipitone Desig', 9897, 'Canada', 'Jerry Melvin', 'Jerry Melvin', 1975, 309, 'Boucherville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Calence', 21928, 'USA', 'Wesley Berenger', 'Wesley Berenger', 2003, 310, 'Towson');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Grant Harrison Adver', 24269, 'Brazil', 'Collective Beckham', 'Collective Beckham', 1982, 311, 'Santana do parnaםba');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Gillette Co.', 17398, 'Italy', 'Queen McGowan', 'Queen McGowan', 2007, 312, 'Biella');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Horizon Consulting', 11647, 'Sweden', 'Lindsey Larter', 'Lindsey Larter', 2013, 313, 'Gהvle');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Security Mortgage Gr', 14999, 'Iceland', 'Jamie Dillon', 'Jamie Dillon', 1976, 314, 'Saudarkrokur');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Team', 3630, 'USA', 'Mint Peniston', 'Mint Peniston', 1977, 315, 'Fort Lewis');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Bio-Reference Labs', 7914, 'Italy', 'Larnelle Clark', 'Larnelle Clark', 2008, 316, 'Udine');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Yash Technologies', 8868, 'USA', 'Kurtwood Harrison', 'Kurtwood Harrison', 1989, 317, 'Staten Island');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Palm Beach Tan', 13350, 'USA', 'Horace Shocked', 'Horace Shocked', 1981, 318, 'Aiken');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Greene County Bancor', 16518, 'Yugoslavia', 'Luis Allan', 'Luis Allan', 1977, 319, 'Belgrad');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Nu Info Systems', 20922, 'Canada', 'Sissy Ferrell', 'Sissy Ferrell', 1970, 320, 'Vancouver');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('TLS Service Bureau', 22610, 'Italy', 'Kiefer Lorenz', 'Kiefer Lorenz', 2007, 321, 'Bolzano');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MindIQ', 17025, 'South Korea', 'Dianne Ball', 'Dianne Ball', 2013, 322, 'Kyunnam');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Capital Bank', 21533, 'USA', 'Gin Levine', 'Gin Levine', 1974, 323, 'Waco');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Vertex Solutions', 10249, 'Belgium', 'Emmylou Taha', 'Emmylou Taha', 1999, 324, 'Lummen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Computer Engineering', 18196, 'Norway', 'Lizzy Walken', 'Lizzy Walken', 1977, 325, 'Kongserbg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Street Glow', 23741, 'USA', 'Harry Bentley', 'Harry Bentley', 1990, 326, 'South Weber');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Larkin Enterprises', 4232, 'USA', 'Emilio Osborne', 'Emilio Osborne', 2015, 327, 'Coppell');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Digital Visual Displ', 2632, 'USA', 'Irene Sandler', 'Irene Sandler', 2003, 328, 'San Francisco');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Analytical Managemen', 5677, 'USA', 'Darren Barnett', 'Darren Barnett', 1974, 329, 'Tustin');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('GDA Technologies', 12722, 'Australia', 'Thomas Ramis', 'Thomas Ramis', 1993, 330, 'Milsons Point');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Myricom', 18730, 'USA', 'Jimmy Zane', 'Jimmy Zane', 1997, 331, 'Mayfield Village');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MRE Consulting', 5475, 'Germany', 'Jackson Cobbs', 'Jackson Cobbs', 1979, 332, 'Darmstadt');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Bashen Consulting', 2182, 'USA', 'Andy Phoenix', 'Andy Phoenix', 2015, 333, 'Mountain View');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Anworth Mortgage', 18538, 'Germany', 'Rosario Paymer', 'Rosario Paymer', 2004, 334, 'Lbeck');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pyramid Digital Solu', 9038, 'USA', 'Judd Watson', 'Judd Watson', 2009, 335, 'Greenwood Village');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kellogg Co.', 8026, 'Germany', 'Wang Laurie', 'Wang Laurie', 1982, 336, 'Fambach');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pan-Pacific Retail P', 17032, 'USA', 'Lauren Tripplehorn', 'Lauren Tripplehorn', 1982, 337, 'Carmichael');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Walt Disney Co.', 9439, 'Greece', 'Geoffrey Jackman', 'Geoffrey Jackman', 1979, 338, 'Athens');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Cold Stone Creamery', 12209, 'USA', 'Maggie Visnjic', 'Maggie Visnjic', 2008, 339, 'Bronx');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aventis', 16440, 'Italy', 'Remy Mason', 'Remy Mason', 1999, 340, 'Brugherio');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Advanced Vending Sys', 20317, 'USA', 'Larry Johansson', 'Larry Johansson', 1990, 341, 'Holliston');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('GTS Refreshment Serv', 19342, 'Switzerland', 'Rob Spader', 'Rob Spader', 2003, 342, 'Zuerich');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Horizon Consulting', 4597, 'Germany', 'Molly Heche', 'Molly Heche', 1988, 343, 'Koblenz');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Gentra Systems', 11847, 'United Kingdom', 'Latin Carter', 'Latin Carter', 1987, 344, 'Southend on Sea');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Max & Erma''s Restaur', 22681, 'USA', 'Reese Young', 'Reese Young', 1977, 345, 'Gainesville');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Prosum', 21470, 'USA', 'Ed Sylvian', 'Ed Sylvian', 2006, 346, 'Redmond');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Eastman Kodak Co.', 10183, 'Iceland', 'Chad McGovern', 'Chad McGovern', 2001, 347, 'Saudarkrokur');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Adea Solutions', 4487, 'United Kingdom', 'Lynn Donelly', 'Lynn Donelly', 1997, 348, 'High Wycombe');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tracer Technologies', 19018, 'Germany', 'Charlie Luongo', 'Charlie Luongo', 1981, 349, 'Berlin-Adlershof');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('EPIQ Systems', 12605, 'USA', 'Tori Phoenix', 'Tori Phoenix', 1990, 350, 'Washington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Clorox Co.', 6749, 'USA', 'Michael Melvin', 'Michael Melvin', 1998, 351, 'Peterborough');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('First American Equip', 8601, 'USA', 'Sharon Beatty', 'Sharon Beatty', 2006, 352, 'Media');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tropical Oasis', 16340, 'Switzerland', 'Udo Krumholtz', 'Udo Krumholtz', 1968, 353, 'Aniטres');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('PowerLight', 6721, 'Germany', 'Queen Lonsdale', 'Queen Lonsdale', 1976, 354, 'Bielefeld');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('BioReliance', 24836, 'Switzerland', 'Vanessa Peet', 'Vanessa Peet', 1970, 355, 'Hochwald');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Greenwich Technology', 22357, 'Portugal', 'Lizzy Swinton', 'Lizzy Swinton', 1970, 356, 'Coimbra');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Volkswagen', 22826, 'USA', 'Jean-Claude Boyle', 'Jean-Claude Boyle', 2011, 357, 'Oak Park');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Merck & Co.', 18274, 'USA', 'Steven Osborne', 'Steven Osborne', 1992, 358, 'King of Prussia');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('BASE Consulting Grou', 23334, 'Australia', 'Teri McLean', 'Teri McLean', 2010, 359, 'St Kilda');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MedSource Consulting', 3921, 'Finland', 'Crispin Bracco', 'Crispin Bracco', 2002, 360, 'Turku');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Larkin Enterprises', 20706, 'USA', 'Sal Bosco', 'Sal Bosco', 1992, 361, 'Monroe');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Apex Systems', 24433, 'USA', 'Ethan Goldberg', 'Ethan Goldberg', 1983, 362, 'Ann Arbor');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Hencie', 9102, 'USA', 'Meg McNeice', 'Meg McNeice', 1998, 363, 'Newnan');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Reckitt Benckiser', 14922, 'USA', 'Julianne Rosas', 'Julianne Rosas', 1975, 364, 'Plymouth Meeting');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pacific Data Designs', 17849, 'Germany', 'Gene Green', 'Gene Green', 2010, 365, 'Horb');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('WCI', 12331, 'Sweden', 'Thelma Depp', 'Thelma Depp', 1972, 366, 'Goteborg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kia Motors Corp.', 2104, 'USA', 'Johnette McClinton', 'Johnette McClinton', 2002, 367, 'El Dorado Hills');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('U.S Physical Therapy', 10759, 'Finland', 'Raymond Oates', 'Raymond Oates', 1991, 368, 'Turku');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Serentec', 21229, 'USA', 'Cherry Griggs', 'Cherry Griggs', 2007, 369, 'Tallahassee');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Virbac', 23058, 'USA', 'Dionne Chambers', 'Dionne Chambers', 1995, 370, 'Snoqualmie');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('York Enterprise Solu', 8196, 'Israel', 'Daryle Sartain', 'Daryle Sartain', 1975, 371, 'Netanya');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aventis', 11100, 'USA', 'Holland Dupree', 'Holland Dupree', 1978, 372, 'Flower mound');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Direct Data', 3122, 'USA', 'Jason MacDonald', 'Jason MacDonald', 1981, 373, 'Rome');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Adolph Coors Co.', 16647, 'United Kingdom', 'Bobby Noseworthy', 'Bobby Noseworthy', 1970, 374, 'Pitstone');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('U.S. Energy Services', 11574, 'USA', 'Mia Springfield', 'Mia Springfield', 1989, 375, 'Sacramento');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('CREDO Petroleum', 7541, 'Australia', 'Hank Osment', 'Hank Osment', 1976, 376, 'Abbotsford');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Career Control Group', 8483, 'United Kingdom', 'Tilda Kotto', 'Tilda Kotto', 2002, 377, 'Southend on Sea');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Market First', 17373, 'USA', 'Henry Washington', 'Henry Washington', 1999, 378, 'Monmouth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Evinco', 8383, 'Germany', 'Kelly Jeter', 'Kelly Jeter', 1988, 379, 'Paderborn');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Professional Placeme', 17416, 'USA', 'Donna Guilfoyle', 'Donna Guilfoyle', 1978, 380, 'Berwyn');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Gillani', 11193, 'United Kingdom', 'Scarlett Marx', 'Scarlett Marx', 1992, 381, 'Royston');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Max & Erma''s Restaur', 18586, 'USA', 'Illeana Spiner', 'Illeana Spiner', 1990, 382, 'Shawnee');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kroger Co.', 5129, 'Germany', 'Gary Chilton', 'Gary Chilton', 1982, 383, 'Ebersdorf');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pacific Data Designs', 12774, 'USA', 'Jennifer Llewelyn', 'Jennifer Llewelyn', 1985, 384, 'Amherst');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SBC Communications', 23283, 'Italy', 'Miki Cook', 'Miki Cook', 1970, 385, 'Chirignago');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Vertex Solutions', 3085, 'United Kingdom', 'Julie Sayer', 'Julie Sayer', 1975, 386, 'Pitstone');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Berkshire Hathaway', 6662, 'South Africa', 'Dustin Redford', 'Dustin Redford', 1974, 387, 'Samrand');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('KeyMark', 4855, 'USA', 'Danni Vicious', 'Danni Vicious', 1984, 388, 'Reisterstown');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Diversitech', 21266, 'Hungary', 'Juan Ferrell', 'Juan Ferrell', 2011, 389, 'Budapest');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Safeway', 16146, 'USA', 'Cesar Drive', 'Cesar Drive', 1983, 390, 'Beaverton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Dankoff Solar Produc', 22887, 'Brazil', 'Sydney Franklin', 'Sydney Franklin', 1985, 391, 'Sao caetano do sul');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Anworth Mortgage', 10044, 'Italy', 'Clarence MacDonald', 'Clarence MacDonald', 1969, 392, 'Novara');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Global Science and T', 22876, 'Germany', 'Carrie-Anne Irving', 'Carrie-Anne Irving', 1989, 393, 'Essen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Merck & Co.', 22935, 'USA', 'Rupert Burrows', 'Rupert Burrows', 2004, 394, 'Delafield');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Commercial Energy of', 5117, 'Germany', 'Jodie Klugh', 'Jodie Klugh', 1968, 395, 'Freising');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Outta the Box Dispen', 8821, 'Austria', 'Robin Bradford', 'Robin Bradford', 2014, 396, 'Steyr');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SALT Group', 17662, 'Germany', 'Tony Burrows', 'Tony Burrows', 2012, 397, 'Ingelheim');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ZonePerfect Nutritio', 6964, 'Iceland', 'Marisa Olin', 'Marisa Olin', 1982, 398, 'Saudarkrokur');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Capstone', 21817, 'Canada', 'Elijah Newman', 'Elijah Newman', 1998, 399, 'Richmond Hill');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Oakleaf Waste Manage', 20019, 'Denmark', 'Avenged Mifune', 'Avenged Mifune', 2007, 400, 'Pandrup');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MindIQ', 9222, 'USA', 'Hank Rubinek', 'Hank Rubinek', 1988, 401, 'Englewood');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Strategic Data Syste', 16479, 'Turkey', 'Jean Lonsdale', 'Jean Lonsdale', 2013, 402, 'Istanbul');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aristotle', 2638, 'Poland', 'Blair Davidtz', 'Blair Davidtz', 2006, 403, 'Gliwice');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sequoia System Inter', 6993, 'Germany', 'Jake Affleck', 'Jake Affleck', 2002, 404, 'Lahr');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Orange Glo Internati', 5098, 'Japan', 'Bruce Fiorentino', 'Bruce Fiorentino', 2002, 405, 'Aomori');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Exinom Technologies', 10630, 'Germany', 'Jann Kahn', 'Jann Kahn', 1968, 406, 'Paderborn');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Maverick Constructio', 4157, 'Mexico', 'Clea Sledge', 'Clea Sledge', 1996, 407, 'Mexico City');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Total Entertainment', 4831, 'USA', 'Oliver Kudrow', 'Oliver Kudrow', 1994, 408, 'West Monroe');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('J.C. Malone Associat', 15985, 'Canada', 'Nastassja Gere', 'Nastassja Gere', 1982, 409, 'Calgary');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Black Mountain Manag', 3397, 'Spain', 'Seth Latifah', 'Seth Latifah', 1976, 410, 'Sevilla');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Kingston', 19045, 'Switzerland', 'Mika Crosby', 'Mika Crosby', 1981, 411, 'Rorschach');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Capella Education', 5262, 'Israel', 'Pam Choice', 'Pam Choice', 1989, 412, 'Netanya');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Visionary Systems', 10562, 'United Kingdom', 'Maggie Sedgwick', 'Maggie Sedgwick', 2015, 413, 'Thame');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sprint Corp.', 14176, 'South Africa', 'Penelope Fox', 'Penelope Fox', 2010, 414, 'Samrand');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Pragmatech Software', 22490, 'USA', 'Lloyd Weaving', 'Lloyd Weaving', 1993, 415, 'Athens');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Service Source', 19019, 'Germany', 'Rick Mortensen', 'Rick Mortensen', 1984, 416, 'Peine');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Cascade Bancorp', 19665, 'Canada', 'Diane Mulroney', 'Diane Mulroney', 1998, 417, 'Cambridge');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('AccuCode', 21654, 'Germany', 'Ozzy Addy', 'Ozzy Addy', 1986, 418, 'Friedrichshafe');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Lloyd Group', 17402, 'Estonia', 'Melba Miller', 'Melba Miller', 1984, 419, 'Tartu');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Stone Brewing', 3773, 'France', 'Norm Choice', 'Norm Choice', 1992, 420, 'Chambery');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SSCI', 15271, 'USA', 'Barbara Holliday', 'Barbara Holliday', 1969, 421, 'Hartford');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Advertising Ventures', 8609, 'Italy', 'Nils Mahood', 'Nils Mahood', 2015, 422, 'Roma');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Philip Morris Cos.', 5196, 'Germany', 'Vanessa Prinze', 'Vanessa Prinze', 1974, 423, 'Wetzlar');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ATX Forms', 16039, 'Canada', 'Marie McIntyre', 'Marie McIntyre', 1990, 424, 'Winnipeg');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('HealthScribe', 22999, 'Spain', 'Grant Lauper', 'Grant Lauper', 2013, 425, 'Madrid');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Parksite', 19862, 'Belgium', 'Kylie Teng', 'Kylie Teng', 1991, 426, 'Mechelen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Capital Bank', 7437, 'France', 'Rufus Dzundza', 'Rufus Dzundza', 1975, 427, 'L''union');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('3t Systems', 18679, 'Israel', 'Thora Guzman', 'Thora Guzman', 1995, 428, 'Ashdod');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Imaging Business Mac', 11699, 'USA', 'Sheryl McKennitt', 'Sheryl McKennitt', 1969, 429, 'East Peoria');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Grant Harrison Adver', 17661, 'USA', 'Rolando Hunter', 'Rolando Hunter', 2003, 430, 'Indianapolis');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Cardinal Cartridge', 2649, 'United Kingdom', 'Shelby Law', 'Shelby Law', 1974, 431, 'Coventry');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Venoco', 8251, 'United Kingdom', 'Julianna Biel', 'Julianna Biel', 1985, 432, 'Warrington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Associated Business ', 4028, 'United Kingdom', 'Alicia Tennison', 'Alicia Tennison', 1982, 433, 'Northampton');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Angie''s List', 6777, 'USA', 'Clea Krieger', 'Clea Krieger', 2000, 434, 'Rockford');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Network Management R', 10311, 'USA', 'Nik Horizon', 'Nik Horizon', 1994, 435, 'Redwood City');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Parksite', 12346, 'USA', 'Ike Hutch', 'Ike Hutch', 1972, 436, 'Harahan');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Active Services', 24822, 'Italy', 'Cameron Adler', 'Cameron Adler', 1983, 437, 'Bruneck');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Quaker City Bancorp', 16398, 'Sweden', 'Charles Newton', 'Charles Newton', 2013, 438, 'Tהby');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Alogent', 2704, 'Thailand', 'Tilda Vaughn', 'Tilda Vaughn', 1994, 439, 'Bkk');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('United Asset Coverag', 12575, 'USA', 'Gena Tolkan', 'Gena Tolkan', 1985, 440, 'Solon');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Ositis Software', 6087, 'Japan', 'Coley Tarantino', 'Coley Tarantino', 1987, 441, 'Utsunomiya');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Coadvantage Resource', 4447, 'Switzerland', 'Kirk Grant', 'Kirk Grant', 2009, 442, 'Hochwald');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Solution Builders', 22867, 'Spain', 'Gilberto Clooney', 'Gilberto Clooney', 1999, 443, 'Alcobendas');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Carteret Mortgage', 23203, 'South Africa', 'Johnnie Hector', 'Johnnie Hector', 2013, 444, 'Gauteng');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Liners Direct', 18601, 'USA', 'Lloyd Benoit', 'Lloyd Benoit', 1970, 445, 'Happy Valley');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Midwest Media Group', 16517, 'United Kingdom', 'Tal urban', 'Tal urban', 1998, 446, 'Warrington');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Limited Brands', 3506, 'Netherlands', 'Edwin Coleman', 'Edwin Coleman', 1990, 447, 'Utrecht');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Southern Financial B', 19984, 'USA', 'Andy Shorter', 'Andy Shorter', 2010, 448, 'Aiken');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Network Display', 13248, 'USA', 'Vin Gere', 'Vin Gere', 2010, 449, 'Lancaster');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SmartDraw.com', 12808, 'Germany', 'Mandy Remar', 'Mandy Remar', 1989, 450, 'Dresden');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Speakeasy', 10630, 'USA', 'Fats Azaria', 'Fats Azaria', 2010, 451, 'Wichita');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Business Plus Corpor', 2546, 'Australia', 'Amy Ryder', 'Amy Ryder', 2004, 452, 'St Kilda');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MHF Logistical Solut', 20121, 'USA', 'Mike Platt', 'Mike Platt', 2007, 453, 'Battle Creek');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Solipsys', 22711, 'Turkey', 'Kiefer Beckinsale', 'Kiefer Beckinsale', 1975, 454, 'Ankara');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Newton Interactive', 2098, 'Germany', 'Rufus Penn', 'Rufus Penn', 1970, 455, 'Waldbronn');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Escalade', 4347, 'USA', 'Ashton Kenoly', 'Ashton Kenoly', 1975, 456, 'Tualatin');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Corporate Executive ', 9832, 'South Korea', 'Tom Krumholtz', 'Tom Krumholtz', 1984, 457, 'Seoul');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Universal Solutions', 14147, 'United Kingdom', 'Maria Flemyng', 'Maria Flemyng', 1968, 458, 'Braintree');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aquascape Designs', 10644, 'USA', 'Edie Nolte', 'Edie Nolte', 2004, 459, 'Phoenix');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Joe Lombardo Plumbin', 13912, 'USA', 'Boz Vicious', 'Boz Vicious', 2001, 460, 'Redwood Shores');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('GTS Refreshment Serv', 11164, 'USA', 'Maury Lonsdale', 'Maury Lonsdale', 1994, 461, 'Laguna Bbeach');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Associated Business ', 14730, 'Germany', 'Lynn Rio', 'Lynn Rio', 2004, 462, 'Wצrth');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Franklin American Mo', 9268, 'USA', 'Mili Elliott', 'Mili Elliott', 2007, 463, 'Fort Collins');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Authoria', 20583, 'USA', 'Sissy Crouch', 'Sissy Crouch', 1975, 464, 'Carson City');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tigris Consulting', 13154, 'Belgium', 'Albertina Guilfoyle', 'Albertina Guilfoyle', 1972, 465, 'Antwerpen');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('AT&T Corp.', 7478, 'USA', 'Arturo Weston', 'Arturo Weston', 1993, 466, 'Laurel');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('HealthCare Financial', 15083, 'Finland', 'Alice Feliciano', 'Alice Feliciano', 1978, 467, 'Kerava');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Computer Source', 9995, 'Australia', 'Clay Judd', 'Clay Judd', 2007, 468, 'Adelaide');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('MicroTek', 5220, 'USA', 'Juan Chaykin', 'Juan Chaykin', 1973, 469, 'Boston');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Telepoint Communicat', 3162, 'Japan', 'Loren Presley', 'Loren Presley', 1994, 470, 'Chiba');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Nature''s Cure', 16089, 'South Korea', 'Saul Hayek', 'Saul Hayek', 1988, 471, 'Seoul');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Electrical Solutions', 2055, 'Argentina', 'Sean Byrd', 'Sean Byrd', 2000, 472, 'Campana');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tilia', 20678, 'South Africa', 'Ian Popper', 'Ian Popper', 1976, 473, 'Vanderbijlpark');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Data Warehouse', 16988, 'Japan', 'Alfie Redgrave', 'Alfie Redgrave', 1985, 474, 'Kagoshima');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Bayer', 19826, 'Finland', 'Stellan Heald', 'Stellan Heald', 2003, 475, 'Oulu');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Marathon Heater', 2902, 'USA', 'Emmylou Duschel', 'Emmylou Duschel', 1973, 476, 'Lincoln');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('U.S. dairy producers', 16451, 'Australia', 'Victoria Reubens', 'Victoria Reubens', 1994, 477, 'Springfield');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Aloha NY Systems', 23149, 'USA', 'Kenneth Rapaport', 'Kenneth Rapaport', 2005, 478, 'Glenshaw');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('SM Consulting', 6325, 'USA', 'Nik DeVita', 'Nik DeVita', 1991, 479, 'Wichita');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Meridian Gold', 6950, 'USA', 'Taye Law', 'Taye Law', 2005, 480, 'Woodland Hills');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Socket Internet', 21095, 'USA', 'Stewart Francis', 'Stewart Francis', 1974, 481, 'Bristol');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Team', 23364, 'United Kingdom', 'Ernie Negbaur', 'Ernie Negbaur', 2010, 482, 'Birmingham');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ProSys Information S', 16334, 'Singapore', 'Melanie Khan', 'Melanie Khan', 1976, 483, 'Singapore');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('John Keeler & Co.', 4002, 'Australia', 'Balthazar MacLachlan', 'Balthazar MacLachlan', 1997, 484, 'Carlingford');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Wal-Mart Stores', 14900, 'Canada', 'Junior Cash', 'Junior Cash', 1993, 485, 'Richmond');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('WorldCom', 13256, 'USA', 'Pete Avalon', 'Pete Avalon', 1972, 486, 'Conshohocken');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Digital Visual Displ', 15922, 'Austria', 'Ike Olyphant', 'Ike Olyphant', 1987, 487, 'Zipf');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Ford Motor Co.', 10715, 'USA', 'Wes Robinson', 'Wes Robinson', 2007, 488, 'Tualatin');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Enterprise Computing', 21970, 'Spain', 'Rupert Crouse', 'Rupert Crouse', 1993, 489, 'Alcobendas');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Interface Software', 7496, 'South Korea', 'Horace Polito', 'Horace Polito', 1974, 490, 'Seoul');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Tilson HR', 6324, 'USA', 'Isabella McIntyre', 'Isabella McIntyre', 1973, 491, 'Happy Valley');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Professional Placeme', 7245, 'USA', 'Alan Wagner', 'Alan Wagner', 2003, 492, 'Cypress');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Service Link', 19957, 'USA', 'Demi Andrews', 'Demi Andrews', 2006, 493, 'Fremont');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Eastman Kodak Co.', 2151, 'USA', 'Nikka Caan', 'Nikka Caan', 1986, 494, 'Aurora');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Vertex Solutions', 5413, 'France', 'Sarah Slater', 'Sarah Slater', 2007, 495, 'Saint-vincent-de-dur');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Dataprise', 8458, 'Germany', 'Lesley Sweet', 'Lesley Sweet', 1970, 496, 'Waldbronn');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Sears, Roebuck & Co.', 9778, 'United Kingdom', 'Clay Sinise', 'Clay Sinise', 1992, 497, 'Horsham');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Partnership in Build', 2469, 'France', 'Mindy Monk', 'Mindy Monk', 1993, 498, 'L''union');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('Woronoco Bancorp', 21972, 'Japan', 'Guy Tanon', 'Guy Tanon', 1999, 499, 'Fukuoka');
+
+insert into CHASHKEN.STADIUM (STADIUM_NAME, CAPACITY, COUNTRY, OWNER, MAINTENANCE_MANAGER, FOUND_YEAR, STADIUMID, CITY)
+values ('ProfitLine', 12241, 'Italy', 'Loren Martin', 'Loren Martin', 1987, 500, 'Di Savigliano');
+
+commit;
+
