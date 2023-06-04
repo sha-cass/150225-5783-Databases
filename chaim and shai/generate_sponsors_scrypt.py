@@ -13,10 +13,10 @@ fieldnames = ['Sponsor_Name', 'Product', 'Trademark', 'Office_Address', 'RP_Cont
 # Generate a list of dictionaries representing the sponsors
 sponsors = []
 for i in range(1, 19001):
-    sponsor = {'Sponsor_Name': fake.company(),
-               'Product': fake.ecommerce_name(),
+    sponsor = {'Sponsor_Name': fake.company().replace(',', ' ').replace('\n', ' '),
+               'Product': fake.ecommerce_name().replace(',', ' ').replace('\n', ' '),
                'Trademark': ''.join(random.choices(string.ascii_uppercase + string.digits, k=10)),
-               'Office_Address': fake.address(),
+               'Office_Address': fake.address().replace(',', ' ').replace('\n', ' '),
                'RP_Contact': ''.join(random.choices(string.digits, k=10)),
                'SponsorID': i}
     sponsors.append(sponsor)
