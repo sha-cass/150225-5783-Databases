@@ -1,3 +1,4 @@
+--FIND STADIUM WITH OVER 24K SEATS
 select s.stadium_name, s.capacity, s.city, s.country, t.team_name 
 from stadium s
 inner join team t on s.stadiumid = t.stadiumid
