@@ -1,3 +1,4 @@
+--Find all countries that have teams that have sponsors that ended in the same year they started
 SELECT st.country, count(distinct t.teamid) as teams_count
 from stadium st
 inner join team t on st.stadiumid = t.stadiumid
