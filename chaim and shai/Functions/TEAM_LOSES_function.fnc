@@ -1,4 +1,4 @@
-create or replace function TEAM_VICTORIES(TEAMID NUMBER) return number is
+create or replace function TEAM_LOSES(TEAMID NUMBER) return number is
   FunctionResult number;
 begin
   select victories
@@ -9,5 +9,5 @@ begin
   group by gs.teamid)
   where  team = teamid;
   return(FunctionResult);
-end TEAM_VICTORIES;
+end TEAM_LOSES;
 /
