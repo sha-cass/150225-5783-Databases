@@ -1,10 +1,13 @@
-create or replace function TEAM_LOSES(TEAMID, NUMBER) return number is
+create or replace function TEAM_VICTORIES(TEAMID NUMBER) return number is
   FunctionResult number;
 begin
-  select count(*)
+  select victories
   into FunctionResult
+  from (select gs.teamid as team, count(*) as victories
   from akorman.gameteamstats gs
-  where gs.teamid = TEAMID and gs.iswin = 0
+  where teamid = gs.teamid and not gs.iswin = 1
+  group by gs.teamid)
+  where  team = teamid;
   return(FunctionResult);
-end TEAM_LOSES;
+end TEAM_VICTORIES;
 /
